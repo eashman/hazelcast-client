@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'hazelcast-jars', '3.2.6', :github => 'wkchih/hazelcast-jars'
+gem 'hazelcast-jars', '3.2.6'
 
 group :development do
   gem 'bundler'
